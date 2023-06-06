@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+body{
+    text-align: center;
+    align-items: center;
+    line-height: 90px;
+}
+
+h1 , p{
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    height: 50px;
+    width: 50px;
+    border-radius: 40%;
+    border-color: black ;
+    background:brown ;
+}
+
